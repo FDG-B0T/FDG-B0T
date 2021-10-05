@@ -15,7 +15,7 @@ from time import sleep
 import pyautogui, os
 
 def end(): #Exit function with a message
-    print('\nThanks for using this tool\nif you have any issues, contact me on discord or GitHub')
+    print('\nThanks for using this tool\nif you have any issues, contact me on GitHub')
     exit(0)
 
 def main(): #main function
@@ -35,8 +35,7 @@ Instructions: Just type your spam text and number of time to spam, hit enter and
 NOTE: THIS TOOL CAN CAUSE A CHAOS IF NOT USED IN THE RIGHT WAY. IN SIMPLE WORDS IT WILL SPAM ANYWHERE YOUR CURSOR IS AT, SO MAKE SURE YOUR CURSOR IS IN THE RIGHT INPUT BOX
 
 Support:
-Discord- https://discord.gg/3nfQadt
-GitHub- https://github.com/Assassinumz
+GitHub - https://github.com/FDG-B0T
 ''')#Tool banner with instructions and contact info
 
     spam = input("Enter your spam text:\n-> ") #Gets the input from the user and stores it as the spam text 
