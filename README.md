@@ -3,7 +3,7 @@
 SpamBot
 </h1>
 <p align="center">
-A basic spam bot written in python also includes a GUI version
+A basic spam bot written in python
 </p>
 
 ## INSTALLATION
