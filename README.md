@@ -13,5 +13,3 @@ cd spambot
 pip install -r requirements.txt
 python spambot.py
 ```
-## CHANGES?
-I don't think about updating the bot and it's more like a one-time project.
