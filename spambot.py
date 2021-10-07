@@ -44,9 +44,9 @@ GitHub - https://github.com/FDG-B0T
         num = 999999
     delay = float(input("\nEnter spam delay (For miliseconds use '.'):\n-> "))#sets delay to time given in the input
 
-    print('\nThe spam will begin in 10 seconds\n')#prepare
+    print('\nThe spam will begin in 5 seconds\n')#prepare
     print("Return to this window and press 'ctrl/cmd + c' to stop the spam anytime\n\n")#how to stop the chaos
-    sleep(10)#gives time for lazy users to point towards the input box
+    sleep(5)#gives time for lazy users to point towards the input box
 
     for _ in range(int(num)):
         sleep(delay)#stop the spam for dealy time given in 'delay' variable every loop
